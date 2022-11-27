@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.934b42f7.css",
+    "main.js": "/static/js/main.25c709dd.js",
+    "static/media/Lato-Semibold.ttf": "/static/media/Lato-Semibold.18ea3062c6e779649b89.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.bb14dc80e8b5d860fe9c.ttf",
+    "static/media/Lato-Heavy.ttf": "/static/media/Lato-Heavy.ba81e9fe23612fe14264.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.8acc961684668b6e28e9.ttf",
+    "static/media/Lato-Medium.ttf": "/static/media/Lato-Medium.dabeb5a4d357db3dc75f.ttf",
+    "static/media/globe-icon.svg": "/static/media/globe-icon.b33156e7fd4c39b635d843a54d29eabb.svg",
+    "static/media/mail-icon.svg": "/static/media/mail-icon.1944d1c7c15b8387f3c6303aa6fc0b51.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.8365a88380a735cb9803fa3981ac9ca3.svg",
+    "index.html": "/index.html",
+    "static/media/heart-icon.svg": "/static/media/heart-icon.9bcde1f7a8b215ababe9fd92f3a62057.svg",
+    "static/media/dropdown-icon.svg": "/static/media/dropdown-icon.44269019649d8a22f3d8342f324aaf6e.svg",
+    "main.934b42f7.css.map": "/static/css/main.934b42f7.css.map",
+    "main.25c709dd.js.map": "/static/js/main.25c709dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934b42f7.css",
+    "static/js/main.25c709dd.js"
+  ]
+}
